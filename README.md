@@ -35,6 +35,14 @@ To run a script file, use the `elixir` command with the targeted script file.
 elixir example.exs
 ```
 
+## Linting
+
+To lint the source code, use `credo`.
+
+```
+mix credo
+```
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed

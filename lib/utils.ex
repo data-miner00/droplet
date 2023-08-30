@@ -1,4 +1,8 @@
 defmodule Droplet.Utils do
+  @moduledoc """
+  The utility modules.
+  """
+
   def add(a, b) do
     a + b
   end
