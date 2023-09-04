@@ -43,6 +43,14 @@ To lint the source code, use `credo`.
 mix credo
 ```
 
+## Install dependencies
+
+Specify the dependencies in `mix.exs`. The dependencies can be browsed through [hex.pm](https://hex.pm) website.
+
+```
+mix deps.get
+```
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed

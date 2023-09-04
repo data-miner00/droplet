@@ -41,3 +41,19 @@ iex(1)> quote do if length(list) == 0, do: nil, else: hd(list) end
    ]
  ]}
 ```
+
+## Change Directory
+
+We can change directory directly within iex.
+
+```
+cd("<lib/your-folder>")
+```
+
+## Default
+
+Run default command
+
+```
+iex -S mix
+```
