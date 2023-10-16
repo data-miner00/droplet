@@ -57,3 +57,11 @@ Run default command
 ```
 iex -S mix
 ```
+
+## Get self PID
+
+Type `self` in iex to get its PID.
+
+```
+iex()> self
+```

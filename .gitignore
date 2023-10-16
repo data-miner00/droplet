@@ -27,3 +27,6 @@ droplet-*.tar
 
 # VSCode lsp
 /.elixir_ls
+
+# Beam build file
+*.beam

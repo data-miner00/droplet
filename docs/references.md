@@ -6,3 +6,15 @@
 ## Screencasts
 
 - [Getting Started with Elixir 1](https://app.pluralsight.com/library/courses/elixir-getting-started/table-of-contents)
+
+## Community
+
+- [ElixirStatus](https://elixirstatus.com/)
+
+## Tools
+
+- [Livebook](https://livebook.dev/)
+
+## Articles
+
+- [Getting Started with the Elixir Programming Language](https://www.toptal.com/elixir/getting-started-elixir-programming-language)
