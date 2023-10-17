@@ -25,6 +25,9 @@ IO.puts "first: #{first}, second: #{second}, third: #{third}"
 # Maps from atom to any type
 options = [{:is_active, false}, {:notify_user, true}, {:create_if_not_exists, true}]
 
+# Shortcut for declaring keyword list items
+options2 = [is_active: false, notify_user: true, create_if_not_exist: true]
+
 # To access the keyword list's element, use the square brackets
 IO.puts options[:is_active]
 

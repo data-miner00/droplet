@@ -65,3 +65,19 @@ Type `self` in iex to get its PID.
 ```
 iex()> self
 ```
+
+## Get Type of Variable
+
+Use the `i` function to get more info of the data type.
+
+```
+iex()> i("this is a string")
+```
+
+## Use of `h()` Helper Function
+
+To read the documentation of a module or a function of a module, simply provide it into the `h()` function as such.
+
+```
+iex()> h Enum.at
+```

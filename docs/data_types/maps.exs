@@ -18,3 +18,6 @@ IO.puts random_map.other
 # We don't need to match every single key
 %{:other => value} = random_map
 IO.puts value
+
+# Add a new item into map
+random_map = %{random_map | 3 => 4}
