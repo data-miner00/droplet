@@ -6,6 +6,7 @@
 ## Screencasts
 
 - [Getting Started with Elixir 1](https://app.pluralsight.com/library/courses/elixir-getting-started/table-of-contents)
+- [Functional Programming with Elixir – Full Course](https://www.youtube.com/watch?v=IiIgm_yaoOA)
 
 ## Community
 
